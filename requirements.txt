@@ -27,6 +27,6 @@ PyNaCl==1.1.2
 pytz==2017.2
 requests==2.18.4
 six==1.10.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 yarl==0.12.0
